@@ -1,3 +1,4 @@
 # hello-world
-my first repositry
-
+my first repository
+learn to use github, nothing special
+//end
